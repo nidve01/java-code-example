@@ -3,7 +3,7 @@
   <test name="Test">
   	<parameter name="browser" value="chrome" />
     <classes> 
-     <class name="java_example.test" />
+     <!--<class name="java_example.test" />-->
      <class name="java_example.TestGridClass"/> 
     </classes>
   </test>
